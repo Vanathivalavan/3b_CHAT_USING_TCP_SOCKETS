@@ -14,6 +14,7 @@ functions.
 ## PROGRAM
 ```
 SERVER PROGRAM
+
 # chat_server.py
 import socket
 # Create socket
@@ -43,10 +44,12 @@ while True:
 # Close connection
 client_socket.close()
 server_socket.close()
+
 ```
 
 ```
 CLIENT PROGRAM
+
 # chat_client.py
 import socket
 # Create socket
