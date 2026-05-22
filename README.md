@@ -46,6 +46,7 @@ server_socket.close()
 ```
 
 ```
+CLIENT PROGRAM
 # chat_client.py
 import socket
 # Create socket
